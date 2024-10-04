@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(59, 129, 219);
+    selector {
+        property: value;
+      }
+      
+      body {
+        background-color: rgba(50, 197, 207, 0.822);
+      }
+      
+      .class-name {
+        property: value;
+      }
+      
+      #id {
+        property: value;
+      }
+        
+}
+
+
+
